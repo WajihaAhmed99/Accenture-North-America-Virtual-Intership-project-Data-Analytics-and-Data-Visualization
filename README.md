@@ -15,7 +15,7 @@ We use three datasets provided by accenture north america in this project
 
 ## Data Cleaning 
 Firstly we clean these three datasets using excel 
-#### Reactions 
+#### 1.Reactions 
 ##### Null  values
 Column Name : Type  ( we remove rows having blanks in this column by using filter) 
 ##### Remove unwanted columns
@@ -28,7 +28,7 @@ Column Name     Data Type
 ##### Rename Columns 
 Column name : Type = Reaction type
 
-####  Reaction Type 
+####  2.Reaction Type 
 ##### Check Data types
 Column Name     Data Type 
 * Sentiment  =  text(string)
@@ -37,15 +37,15 @@ Column Name     Data Type
 ##### Rename Columns 
 Column name : Type = Reaction type
 
-#### Content 
+#### 3.Content 
 ##### Check Data types
 Column Name     Data Type 
 * content type = general
 * content Type = text(string)
 * category =   text(string) 
 ##### Remove unwanted columns
-Column Name : User Id  ( we already have content Id column for user representation so we don't need it for analysis)
-Column Name : URL   (we don't need email id for users in analysis)
+* Column Name : User Id  ( we already have content Id column for user representation so we don't need it for analysis)
+* Column Name : URL   (we don't need email id for users in analysis)
 
 ## Data Modeling
 we combine these three datasets by using merge query in power query editor .
