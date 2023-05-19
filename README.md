@@ -27,7 +27,6 @@ Column Name     Data Type
 * Datetime = datetime   
 ##### Rename Columns 
 Column name : Type = Reaction type
-
 ####  2.Reaction Type 
 ##### Check Data types
 Column Name     Data Type 
@@ -36,7 +35,6 @@ Column Name     Data Type
 * Score = number 
 ##### Rename Columns 
 Column name : Type = Reaction type
-
 #### 3.Content 
 ##### Check Data types
 Column Name     Data Type 
