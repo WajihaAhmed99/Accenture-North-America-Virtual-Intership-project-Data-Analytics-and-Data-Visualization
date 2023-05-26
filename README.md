@@ -50,7 +50,7 @@ we combine these three datasets by using merge query in power query editor .
 Firstly we merge **Reaction** table by **Content** using **content Id** of **Content** table and **Reaction** table as primary key then we merge **Reaction Type** table to existing table by using **reaction_type** column of **Reaction** and **Reaction Type** Table.
 
 ## Data Analysis
-we represent our key finding in form of Power Point presentation .
+we represent our key finding in form of Power Point presentation which is shown in folder and we also make a Tableau dashboard.
 Here is the link of final Tableau dashboard.
 https://public.tableau.com/app/profile/wajiha.ahmed/viz/SocialBuzzAnalysis_16844149166300/Dashboard1
 
