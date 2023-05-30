@@ -1,6 +1,5 @@
 # Accenture-North-America-Virtual-Intership-project-Data-Analytics-and-Data-Visualization
-This virtual internship is based on analysis about Social Media & content creation company **Social Buzz** .Social Buzz is fast growing technology unicorn that need to adapt quickly to its global scale and we help them in their marketing strategy.
-
+In this virtual internship with Accenture, we worked with Social Buzz, a rapidly growing technology unicorn in the social media and content creation industry. Our objective was to assist them in adapting their marketing strategy to a global scale. Our approach involved utilizing Excel and Power Query for data cleaning and modeling, Tableau for generating impactful insights, and PowerPoint for presenting our key findings.
 ## Tools use in this Social buzz Analysis
 * **Excel** for Data cleaning
 * **Power Query** for Data Modeling
